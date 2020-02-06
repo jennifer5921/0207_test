@@ -41,6 +41,7 @@ except Exception as e:
     print("执行: %s,出错：%s" % (sql, e))
 
 #test_test
+#test
 cursor.close()
 conn.close()
 
