@@ -40,7 +40,7 @@ except Exception as e:
     conn.rollback()
     print("执行: %s,出错：%s" % (sql, e))
 
-
+#test
 cursor.close()
 conn.close()
 
