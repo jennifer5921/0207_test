@@ -39,4 +39,4 @@ except Exception as e:
 cursor.close()
 conn.close()
 
-
+print('just for test')
