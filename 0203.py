@@ -40,3 +40,6 @@ cursor.close()
 conn.close()
 
 print('just for test')
+print('test aggin')
+
+
